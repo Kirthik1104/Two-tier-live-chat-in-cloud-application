@@ -4,7 +4,7 @@
 
 The project involved building a simple two-tier live chat application and deploying it on Google Cloud using both native and containerized setups. The flow of the project can be summarized as follows:
 
-1. MongoDB Installation:
+<ul>1. MongoDB Installation:</ul>
 
 • Installed MongoDB, which served as the database server for storing chat messages.
 • Followed the installation steps and validated the MongoDB installation on the database VM.
