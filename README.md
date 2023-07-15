@@ -1,6 +1,7 @@
 # Two-tier-live-chat-in-cloud-application
 
 <h3>Implementation</h3>
+
 The project involved building a simple two-tier live chat application and deploying it on Google Cloud using both native and containerized setups. The flow of the project can be summarized as follows:
 
 1. MongoDB Installation:
